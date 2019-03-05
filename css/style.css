@@ -8,7 +8,7 @@
     height: 100%;
     position: absolute;
     z-index: 3;
-    background-color: rgb(0, 0, 0, 0.7);
+    background-color: rgb(0, 0, 0, 0.3);
 }
 .slides-navigation{
     z-index: 6;
@@ -40,7 +40,8 @@
 }
 
 .titleMessage .heading p {
-	color: #fff;
+    color: #fff;
+    background-color: #e74c3c;
     text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.4);
     font-weight: 100;
     letter-spacing: 7px;
